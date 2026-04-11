@@ -1,0 +1,3 @@
+[submodule "nlk"]
+	path = nlk
+	url = https://github.com/nlink-jp/nlk.git
