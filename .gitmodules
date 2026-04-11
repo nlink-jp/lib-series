@@ -1,3 +1,6 @@
 [submodule "nlk"]
 	path = nlk
 	url = https://github.com/nlink-jp/nlk.git
+[submodule "nlk-py"]
+	path = nlk-py
+	url = https://github.com/nlink-jp/nlk-py.git
