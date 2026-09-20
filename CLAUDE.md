@@ -14,7 +14,7 @@
 
 Shared libraries for nlink-jp projects.
 
-```
-lib-series/
-└── nlk/    github.com/nlink-jp/nlk   (Go — LLM utility toolkit)
-```
+The catalog — one row per submodule — is [README.md](README.md) (ADR-005);
+do not duplicate it here. A second list is a list that drifts: `check-org.sh`
+holds the README to the submodules and nothing held this file, which had
+fallen behind by the time anyone compared them.
