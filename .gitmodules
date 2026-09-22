@@ -4,3 +4,6 @@
 [submodule "nlk-py"]
 	path = nlk-py
 	url = https://github.com/nlink-jp/nlk-py.git
+[submodule "pathguard"]
+	path = pathguard
+	url = https://github.com/nlink-jp/pathguard.git
