@@ -7,3 +7,6 @@
 [submodule "pathguard"]
 	path = pathguard
 	url = https://github.com/nlink-jp/pathguard.git
+[submodule "mermaid-render"]
+	path = mermaid-render
+	url = https://github.com/nlink-jp/mermaid-render.git
