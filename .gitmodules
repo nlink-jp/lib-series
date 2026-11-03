@@ -10,3 +10,6 @@
 [submodule "mermaid-render"]
 	path = mermaid-render
 	url = https://github.com/nlink-jp/mermaid-render.git
+[submodule "toml"]
+	path = toml
+	url = https://github.com/nlink-jp/toml.git
