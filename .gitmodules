@@ -13,3 +13,6 @@
 [submodule "toml"]
 	path = toml
 	url = https://github.com/nlink-jp/toml.git
+[submodule "mailparse"]
+	path = mailparse
+	url = https://github.com/nlink-jp/mailparse.git
